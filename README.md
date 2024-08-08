@@ -1,6 +1,6 @@
 # Todo List App
 
-This is a simple Todo List application built using React and TypeScript and Bootstrap. The app allows users to add, delete, and edit tasks.
+This is a simple Todo List application built using React , TypeScript and Bootstrap. The app allows users to add, delete, and edit tasks.
 
 ## Features
 
