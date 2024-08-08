@@ -23,3 +23,7 @@ Follow the instructions below to get the project up and running on your local ma
 ## Here’s a screenshot:
 
 ![Screenshot of the UI](screenshot/Screenshot.png)
+
+## Editing Task
+
+![Screenshot of the UI](screenshot/edit.png)
