@@ -20,4 +20,6 @@ Follow the instructions below to get the project up and running on your local ma
    npm install
 3,Running the App:
   npm run dev
+## Here’s a screenshot:
 
+![Screenshot of the UI](screenshot/Screenshot.png)
